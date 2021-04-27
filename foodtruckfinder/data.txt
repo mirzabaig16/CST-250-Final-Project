@@ -1,0 +1,106 @@
+3
+KFC
+America
+1
+Chicken Burger
+Lunch
+13.0
+1
+Monday
+2
+07:00 - 12:00
+14:00 - 22:00
+2
+Loc 1
+41.8792,87.6298
+1
+Monday
+1
+07:00 - 22:00
+Loc 2
+41.8794,87.3345
+1
+Tuesday
+1
+10:00 - 22:00
+Hardees
+American
+2
+Chicken Burger
+Lunch
+10.0
+2
+Monday
+2
+06:00 - 14:00
+07:00 - 22:00
+Wednesday
+1
+10:00 - 22:00
+Beef Burger
+Lunch
+9.0
+1
+Monday
+1
+06:00 - 22:00
+3
+Street 43, chicago
+42.12123,54.12312
+3
+Monday
+1
+07:00 - 22:00
+Tuesday
+2
+10:00 - 14:00
+15:00 - 19:00
+Wednesday
+1
+10:00 - 22:00
+Near Mall ABC,street 19
+54.12312,43.123111
+1
+Thursay
+1
+10:00 - 22:00
+John book store back, street 15
+34.3332,12.67786
+1
+Thursday
+1
+10:00 - 22:00
+Burger King
+American
+2
+Chicken Burger
+Lunch
+10.5
+2
+Monday
+1
+12:00 - 16:00
+Friday
+2
+10:00 - 12:00
+14:00 - 20:00
+Beef Burger
+Lunch
+15.0
+1
+Tuesdayy
+1
+02:00 - 09:00
+2
+6428 n bell ave 
+41.3798,68.9888
+1
+Tuesday
+1
+03:00 - 06:00
+Loc 2
+47.6398,67.8888
+1
+Monday
+1
+02:00 - 06:00
